@@ -1,4 +1,4 @@
-\# 🤖 AI PDF Chatbot
+\# 🤖 AI PDF MultiDocument Assistant
 
 
 
