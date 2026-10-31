@@ -12,7 +12,7 @@ Features
 - Generate answers using the OpenAI Responses API.
 - Display source document names and page numbers.
 - View uploaded documents and clear the current session's documents.
-- 
+  
 Tech Stack
 Component	Technology
 Language	Python
@@ -50,7 +50,7 @@ Prerequisites
 - Python 3.10 or later
 - An OpenAI API key
 - Internet access for OpenAI API requests
-- 
+  
 Installation
 1. Clone the repository
 git clone <YOUR_REPOSITORY_URL>
@@ -108,7 +108,7 @@ Security
 - Store the API key in .env.
 - Never commit API keys, passwords, or other secrets.
 - If a key is exposed, revoke it and create a replacement.
-- 
+  
 Future Improvements
 - Persist documents and embeddings between backend restarts.
 - Add OCR support for scanned PDFs.
